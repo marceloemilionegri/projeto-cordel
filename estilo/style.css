@@ -75,6 +75,7 @@ div.transparente {
     width: 400px;
     padding: 20px 10px;
     margin: 30px;
+    display: inline-block;
 }
 
 div#foto001 {
