@@ -72,10 +72,10 @@ div.transparente {
     font-family: var(--fonte-padrao);
     color: white;
     text-shadow: 0px 0px 10px black;
-    width: 400px;
-    padding: 20px 10px;
+    padding: 20px;
     margin: 30px;
     display: inline-block;
+    
 }
 
 div#foto001 {
